@@ -1,15 +1,27 @@
 body{
     background-color:rgb(217, 217, 248);
-    background-image: url(Books_Apple_right.jpg);
-    background-repeat: no-repeat, repeat;
 }
-.links{background-color: rgb(41, 100, 80);
-width: 100%
-border
-head{
-p.normal {
-    font-style: normal;
-  }
-  p.italic {
-    font-style: italic;
-  }
+
+ol{
+    list-style: none;
+    background-color: white;
+    height: 40px;
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+}
+
+
+#about{
+    background-color:red;
+height: 50px;
+
+}
+
+h1{
+    color: black;
+   height: 30px;
+   text-align: center;
+}
